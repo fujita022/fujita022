@@ -1,12 +1,14 @@
 <h1 align="center">Hi 👋, I'm Erick Fujita</h1>
-<h3 align="center">A student from FIAP</h3>
+<h3 align="center">A student from 
+<a href="https://www.fiap.com.br" target="_blank"> FIAP</a>
+</h3>
 
 📫 **erickfujitao@gmail.com**
 
 
 <p align="left">
-<a href="https://www.linkedin.com/in/erick-fujita/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/erick-fujita/" height="30" width="40" /></a>
-<a href="https://www.instagram.com/loefujii/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/loefujii/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/erick-fujita/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Linkedin" height="30" width="40" /></a>
+<a href="https://www.instagram.com/loefujii/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram/" height="30" width="40" </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
