@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Erick Fujita</h1>
 <h3 align="center">A student from FIAP</h3>
-<h3 align="center">*Software Engineer*</h3>
 - 📫  **erickfujitao@gmail.com**
 
 
