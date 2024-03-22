@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Erick Fujita</h1>
 <h3 align="center">A student from FIAP</h3>
-- 📫 erickfujitao@gmail.com
+
+📫 **erickfujitao@gmail.com**
 
 
 <p align="left">
